@@ -1,0 +1,15 @@
+{
+  "name": "easy-notes-app",
+  "version": "1.0.0",
+  "description": "This is my Notes App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhagvat Redde",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.2"
+  }
+}
